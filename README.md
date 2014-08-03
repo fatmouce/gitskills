@@ -1,3 +1,3 @@
 gitskills
 =========
-add line
+add line & a word
